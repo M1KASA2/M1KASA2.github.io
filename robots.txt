@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://m1kasa2.github.io/sitemap.xml

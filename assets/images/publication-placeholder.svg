@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="172" viewBox="0 0 240 172" fill="none">
+  <rect width="240" height="172" rx="4" fill="#F3F7FC"/>
+  <text x="17" y="23" fill="#5A728C" font-family="Arial, Helvetica, sans-serif" font-size="8" letter-spacing="1.5">RESEARCH OVERVIEW</text>
+  <rect x="17" y="48" width="59" height="77" rx="4" fill="white" stroke="#BFCFDF"/>
+  <rect x="26" y="59" width="41" height="39" rx="2" fill="#DFEAF6"/>
+  <circle cx="55" cy="69" r="5" fill="#E8B168"/>
+  <path d="M26 94L38 78L48 89L55 82L67 98H26V94Z" fill="#8AAACB"/>
+  <path d="M29 109H63M29 115H54" stroke="#CBD7E3" stroke-width="2" stroke-linecap="round"/>
+  <path d="M83 86H98M94 82L98 86L94 90" stroke="#678AAE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="106" y="62" width="44" height="48" rx="4" fill="#DFEAF6" stroke="#ADC4DD"/>
+  <g fill="#87A8CD">
+    <rect x="114" y="70" width="8" height="8" rx="1"/>
+    <rect x="126" y="70" width="8" height="8" rx="1"/>
+    <rect x="138" y="70" width="5" height="8" rx="1"/>
+    <rect x="114" y="82" width="8" height="8" rx="1"/>
+    <rect x="126" y="82" width="8" height="8" rx="1" fill="#527FAB"/>
+    <rect x="138" y="82" width="5" height="8" rx="1"/>
+    <rect x="114" y="94" width="8" height="8" rx="1"/>
+    <rect x="126" y="94" width="8" height="8" rx="1"/>
+    <rect x="138" y="94" width="5" height="8" rx="1"/>
+  </g>
+  <path d="M157 86H172M168 82L172 86L168 90" stroke="#678AAE" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="180" y="48" width="43" height="77" rx="4" fill="white" stroke="#BFCFDF"/>
+  <path d="M188 111H215M194 107V90L204 77L212 84" stroke="#6387AE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="194" cy="90" r="4" fill="#F3F7FC" stroke="#6387AE" stroke-width="2"/>
+  <circle cx="204" cy="77" r="4" fill="#F3F7FC" stroke="#6387AE" stroke-width="2"/>
+  <path d="M212 84L216 80M212 84L216 89" stroke="#C28D4B" stroke-width="2" stroke-linecap="round"/>
+  <text x="120" y="150" fill="#697E92" font-family="Arial, Helvetica, sans-serif" font-size="9" text-anchor="middle">Perception to interaction</text>
+</svg>

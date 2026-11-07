@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="172" viewBox="0 0 240 172" fill="none">
+  <rect width="240" height="172" rx="4" fill="#F4F6F8"/>
+  <text x="17" y="23" fill="#64717E" font-family="Arial, Helvetica, sans-serif" font-size="8" letter-spacing="1.5">PROJECT OVERVIEW</text>
+  <path d="M25 129L118 149L217 122L124 104L25 129Z" fill="#E4EAF0"/>
+  <path d="M43 133L141 107M68 138L166 112M93 143L192 117M49 123L143 143M75 116L168 137M101 110L193 130" stroke="#CFD8E1"/>
+  <path d="M93 118H130L137 126H85L93 118Z" fill="#879FB8"/>
+  <path d="M110 117V91L137 67L161 82" stroke="#6788AA" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="110" cy="91" r="8" fill="#EFF4F8" stroke="#6788AA" stroke-width="4"/>
+  <circle cx="137" cy="67" r="8" fill="#EFF4F8" stroke="#6788AA" stroke-width="4"/>
+  <path d="M161 82L166 89L174 84M166 89L163 97" stroke="#B0834F" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M177 105L191 101L203 107L190 112L177 105Z" fill="#DDB78A"/>
+  <path d="M177 105V119L190 125V112L177 105Z" fill="#C29663"/>
+  <path d="M190 112L203 107V120L190 125V112Z" fill="#AC7C48"/>
+  <path d="M174 95V91H183M207 97H214V104M174 123V129H183M207 129H214V122" stroke="#72947C" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M30 75H62V98H30V75Z" fill="#E0EAF4" stroke="#AEC2D6"/>
+  <path d="M62 81L72 76V97L62 92" fill="#C1D2E3"/>
+  <path d="M72 86L98 80" stroke="#A0B4C7" stroke-dasharray="3 3"/>
+</svg>
